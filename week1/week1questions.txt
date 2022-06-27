@@ -1,0 +1,40 @@
+1. Write a program in dart to print ‘Hello Sunway’ 3 times using for loop, while loop and do
+while loop.
+
+2. Write a dart program to determine whether the number is a prime number or not.
+
+3. Write a dart program to print all the prime numbers between 1 and 100.
+
+4. Write a program to calculate the electricity bill (accept number of unit from user)
+according to the following criteria :
+Unit Price
+First 100 units no charge
+Next 100 units Rs 5 per unit
+After 200 units Rs 10 per unit
+(For example if input unit is 350 than total bill amount is Rs2000)
+
+5. Define a function that returns the product and the sum of two numbers entered by the
+user.
+
+6. A company decided to give a bonus of 5% to employees if his/her year of service is more
+than 5 years.Ask users for their salary and year of service and print the net bonus
+amount.
+
+7. Write a program in Dart that finds simple interest. Take principal(p), time(t) and rate(r)
+from the user.
+SI = (p*t*r)/100
+
+8. Write a program to find quotients and remainder of two integers.
+
+9. Write a program to swap two numbers in dart.
+
+10. Write a program in dart to calculate the following in a list
+a = [1, 0, 2, 3, 5, 8, 13, 21, 34, 55, 89]
+● Smallest number in a list
+● Largest number in a list
+● Print all the elements greater than 8.
+● Print all the elements smaller than 5.
+● Sum of all the elements of the list.
+● Print all the odd numbers inside the list.
+● Print all the even numbers inside the list
+● Print all the prime numbers inside the list.
